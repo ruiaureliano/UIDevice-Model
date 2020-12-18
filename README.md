@@ -1,4 +1,6 @@
-# UIDevice Model [![](https://img.shields.io/badge/license-MIT-eb3d33.svg)](./LICENSE.md) [![](https://img.shields.io/badge/swift-5.3-eb3d33.svg)](https://swift.org/blog/swift-5-3-released/) 
+# UIDevice Model 
+
+[![](https://img.shields.io/badge/license-MIT-f7bd09.svg)](./LICENSE.md) [![](https://img.shields.io/badge/swift-5.3-f7bd09.svg)](https://swift.org/blog/swift-5-3-released/) 
 
 ☛ Based on some answers from this [post](https://stackoverflow.com/questions/26028918/how-to-determine-the-current-iphone-device-model)
 
